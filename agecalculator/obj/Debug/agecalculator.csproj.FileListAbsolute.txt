@@ -1,0 +1,10 @@
+c:\users\ganta\source\repos\agecalculator\agecalculator\bin\Debug\agecalculator.exe.config
+c:\users\ganta\source\repos\agecalculator\agecalculator\bin\Debug\agecalculator.exe
+c:\users\ganta\source\repos\agecalculator\agecalculator\bin\Debug\agecalculator.pdb
+c:\users\ganta\source\repos\agecalculator\agecalculator\obj\Debug\agecalculator.csprojResolveAssemblyReference.cache
+c:\users\ganta\source\repos\agecalculator\agecalculator\obj\Debug\agecalculator.AgeCalculator.resources
+c:\users\ganta\source\repos\agecalculator\agecalculator\obj\Debug\agecalculator.Properties.Resources.resources
+c:\users\ganta\source\repos\agecalculator\agecalculator\obj\Debug\agecalculator.csproj.GenerateResource.Cache
+c:\users\ganta\source\repos\agecalculator\agecalculator\obj\Debug\agecalculator.csproj.CoreCompileInputs.cache
+c:\users\ganta\source\repos\agecalculator\agecalculator\obj\Debug\agecalculator.exe
+c:\users\ganta\source\repos\agecalculator\agecalculator\obj\Debug\agecalculator.pdb
